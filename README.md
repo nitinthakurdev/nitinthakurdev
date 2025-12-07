@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-- 🔭 Currently working on: **Booking Website & Freelancer Marketplace**
+- 🔭 Currently working on: **Freelancer Marketplace with microservices**
 - 🌱 Currently learning: **DSA, System Design (Beginner Level), CI/CD, Microservices, Nginx**
 - 🚀 Exploring: **Core Java for Backend Foundations**
 - 💡 Passionate about: **Building scalable systems, APIs, real-world applications**
@@ -16,7 +16,7 @@
   **Full Stack Development, Node.js, React, Next.js, TypeScript, Golang, Microservices**
 - 📫 Reach me at: **nitinthakur12390@gmail.com**
 - 📄 Check My Resume:  
-  👉 [Click Here](https://drive.google.com/file/d/1itJlrsO2udthlomTM8qMCcn-JWrbs8Ej/view?usp=drivesdk)
+  👉 [Click Here](https://drive.google.com/file/d/1itJlrsO2udthlomTM8qMCcn-JWrbs8Ej/view?usp=drivesdk](https://drive.google.com/file/d/1o-eLD6jRQpILBW4ITCalkbHnVh4KhDIS/view?pli=1)
 
 ---
 
