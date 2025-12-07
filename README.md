@@ -16,7 +16,7 @@
   **Full Stack Development, Node.js, React, Next.js, TypeScript, Golang, Microservices**
 - 📫 Reach me at: **nitinthakur12390@gmail.com**
 - 📄 Check My Resume:  
-  👉 [Click Here](https://drive.google.com/file/d/1itJlrsO2udthlomTM8qMCcn-JWrbs8Ej/view?usp=drivesdk](https://drive.google.com/file/d/1o-eLD6jRQpILBW4ITCalkbHnVh4KhDIS/view?pli=1)
+  👉 [Click Here](https://drive.google.com/file/d/1o-eLD6jRQpILBW4ITCalkbHnVh4KhDIS/view?pli=1)
 
 ---
 
