@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D" alt="nitinthakurdev" />
+  <img src="./image.jpg" alt="nitinthakurdev" />
 </p>
 
 ---
