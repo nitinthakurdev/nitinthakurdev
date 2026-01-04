@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nitinthakurdev&label=Profile%20views&color=0e75b6&style=flat" alt="nitinthakurdev" />
+  <img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D" alt="nitinthakurdev" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 **Full Stack Development, Node.js, React, Next.js, TypeScript, Golang, Microservices**  
 📫 Reach me at: **nitinthakur12390@gmail.com**  
 📄 Check My Resume:  
-👉 **[View Resume](https://drive.google.com/your-resume-link-here)**
+👉 **[View Resume](https://drive.google.com/file/d/1o-eLD6jRQpILBW4ITCalkbHnVh4KhDIS/view?pli=1)**
 
 ---
 
@@ -24,6 +24,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/official_nitin_thakur_0.1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nitinthakurdev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinthakur12390@gmail.com)
+
+---
+
+## 🗣️ Languages I’ve Worked With
+- **JavaScript** – Production APIs, frontend & backend  
+- **TypeScript** – Scalable backend services & microservices  
+- **Java** – Core Java, backend fundamentals (ongoing)  
+- **Golang** – REST APIs & backend services  
+- **SQL** – MySQL, PostgreSQL (queries, joins, optimization)  
+- **NoSQL** – MongoDB (schema design, aggregation)
 
 ---
 
